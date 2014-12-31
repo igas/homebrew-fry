@@ -2,8 +2,8 @@ require 'formula'
 
 class Fry < Formula
   homepage 'https://github.com/terlar/fry#readme'
-  url 'https://github.com/terlar/fry/archive/0.1.2.tar.gz'
-  sha1 'b44340ff94689af0699485432189dff87730c619'
+  url 'https://github.com/terlar/fry/archive/0.1.3.tar.gz'
+  sha1 '5b4b50a3f11042691c9e5eb2d605d62c607a0ebe'
 
   head 'https://github.com/terlar/fry.git'
 
