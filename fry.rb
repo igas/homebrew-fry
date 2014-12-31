@@ -14,7 +14,7 @@ class Fry < Formula
   def caveats; <<-EOS.undent
     Add the following to the ~/.config/fish/config.fish file:
 
-      . #{opt_share}/fry/fry.fish
+      source #{opt_share}/fry/fry.fish
     EOS
   end
 end
