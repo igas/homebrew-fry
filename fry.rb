@@ -3,7 +3,7 @@ require 'formula'
 class Fry < Formula
   homepage 'https://github.com/terlar/fry#readme'
   url 'https://github.com/terlar/fry/archive/0.1.5.tar.gz'
-  sha1 '24222bd50ebc024507bb3e404789513af3c64b25'
+  sha256 '24222bd50ebc024507bb3e404789513af3c64b25'
 
   head 'https://github.com/terlar/fry.git'
 
